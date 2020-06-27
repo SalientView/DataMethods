@@ -2,7 +2,7 @@
 
 正在整理数据分析的项目和方法，同时提供优质的学习资源，欢迎交流。
 
-<font color=blue size=1>近期要出Pandas速查工具，具体内容为Pandas各方法的使用技巧，由于Pandas官方文档许多方法展示不全面，因此整理这份资料，会附上demo供参考，预计一个月内发布。/font>
+<font color=blue size=1>近期要出Pandas速查工具，具体内容为Pandas各方法的使用技巧，由于Pandas官方文档许多方法展示不全面，因此整理这份资料，会附上demo供参考，预计一个月内发布。</font>
   
 ## 1.疫情数据抓取
 

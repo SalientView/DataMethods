@@ -4,8 +4,8 @@
 
 <font color=blue size=1>近期要出Pandas速查工具，具体内容为Pandas各方法的使用技巧，由于Pandas官方文档许多方法展示不全面，因此整理这份资料，会附上demo供参考，预计一个月内发布。</font>
 
-$\color{HotPink}{就是这样}$
-  
+$\color{blue}{红色字}$
+
 ## 1.疫情数据抓取
 
 通过爬虫获取疫情的数据，最早可获取到1月份至今的数据。

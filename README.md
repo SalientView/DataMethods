@@ -29,7 +29,20 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 
 ![](https://static01.imgkr.com/temp/1ba8d4ff1ef2470fbcccff5ef2589660.png)
 
-## 3.北大课程资料整理
+## 3.用python下载YouTube视频、B站视频
+不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
+
+查看代码请移步![视频下载器](https://github.com/SalientView/YouTube_Download)
+
+效果如下：
+
+![](https://imgkr.cn-bj.ufileos.com/1b196cd8-f753-4512-9e22-198d4df996cc.png)
+
+
+
+![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
+
+## 4.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

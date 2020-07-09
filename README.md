@@ -32,7 +32,7 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 ## 3.用python下载YouTube视频、B站视频
 不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
 
-查看代码请移步![视频下载器](https://github.com/SalientView/YouTube_Download)
+查看代码请移步[视频下载器](https://github.com/SalientView/YouTube_Download)。
 
 效果如下：
 

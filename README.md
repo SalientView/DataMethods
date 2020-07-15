@@ -17,7 +17,13 @@
 代码地址：[基于网易疫情播报平台的数据采集](https://github.com/SalientView/covid_19-data-crawler)
 
 
-## 2.数据可视化配色
+## 2.自动化数据分析脚本
+机器可以代替人工作吗？答案是不能100%，但或许80%是可以的。在数据分析时有些方法是通用的，适用于所有数据，不需要每次在分析时重新写。<br>
+因此在人分析前机器先把数据中的信息展现一遍，基于这个目的我先写了一个辅助分析工具，提升数据分析的效率，更快的获取数据结论。<br>
+最终的目的是全自动化的数据分析，目前只达到初级效果。<br>
+项目地址：[自动化数据分析](https://github.com/SalientView/Auto_analysis)
+
+## 3.数据可视化配色
 
 还在为作图的配色发愁？<br>
 我整理示了python所有的自带调色板，这样可以很方便地查看每种配色的名称和效果.<br>
@@ -27,9 +33,11 @@ Worried about the color scheme for your data-visualization?
 I have sorted out all the palette in Python, so that you can clearly see the name and effect of each color. 
 See more details by downloading the PDF《[palette_all](https://github.com/SalientView/palette/blob/master/palette_all.pdf)》.
 
-![](https://static01.imgkr.com/temp/1ba8d4ff1ef2470fbcccff5ef2589660.png)
+<img src="https://static01.imgkr.com/temp/1ba8d4ff1ef2470fbcccff5ef2589660.png"  width="450" >
 
-## 3.用python下载YouTube视频、B站视频
+
+
+## 4.用python下载YouTube视频、B站视频
 不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
 
 查看代码请移步[视频下载器](https://github.com/SalientView/YouTube_Download)。
@@ -42,7 +50,7 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 
 ![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
 
-## 4.北大课程资料整理
+## 5.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

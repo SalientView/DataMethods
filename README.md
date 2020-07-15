@@ -40,7 +40,7 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 ## 4.用python下载YouTube视频、B站视频
 不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
 
-查看代码请移步[视频下载器](https://github.com/SalientView/YouTube_Download)。
+查看代码请移步[视频下载脚本](https://github.com/SalientView/YouTube_Download)。
 
 效果如下：
 
@@ -50,7 +50,18 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 
 ![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
 
-## 5.北大课程资料整理
+## 5.SQL学习
+
+本资源以MySQL为目标，因为MySQL方面的文章已经有前人整理的非常到位，直接拿来用即可，不需要自己在重新整理，学习资源如下：
+
+|	内容	|	地址	|
+|	----	|	----	|	
+|配置环境|https://www.jianshu.com/p/edca5142391c|
+|测试题|https://zhuanlan.zhihu.com/p/53302593|
+|在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
+|关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573
+|
+## 6.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

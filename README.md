@@ -60,8 +60,7 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 |配置环境|https://www.jianshu.com/p/edca5142391c|
 |测试题|https://zhuanlan.zhihu.com/p/53302593|
 |在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/<br>http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
-|关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573
-|
+|关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573|
 ## 6.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)

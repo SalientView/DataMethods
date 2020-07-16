@@ -56,7 +56,29 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
 
-## 6.SQL学习
+
+## 6.Linux学习
+
+Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工具或网站。
+
+|	内容	|	地址	|
+|	----	|	----	|	
+|	命令解释	|	http://explainshell.com/|	
+|	通过RPG游戏练习VIM使用|		http://vim-adventures.com/|	
+|	练习软件快捷键|		http://shortcutfoo.com/|	
+|	免费编程书籍	|	https://github.com/geekwolf/free-books|	
+|	实时文本交互聊天|		http://collabedit.com/|	
+|	在线编写运行分享C++代码编辑器|		http://cpp.sh/|	
+|	浏览器运行虚拟机|		http://copy.sh/v24/|	
+|	命令或记录网站|		http://commandlinefu.com/|	
+|	Linux发行版的详细信息|		https://distrowatch.com/|	
+|	在线查看命令帮助	|	http://linuxmanpages.com/|	
+|	适用Linux环境的软件搜索引擎|		http://awesomecow.com/|	
+|	Linux好玩游戏合集|		http://penguspy.com/|	
+|	在线查看内核代码及不同版本的差异|		http://lxr.free-electrons.com/|	
+
+
+## 7.SQL学习
 
 本资源以MySQL为目标，因为MySQL方面的文章已经有前人整理的非常到位，直接拿来用即可，不需要自己在重新整理，学习资源如下：
 
@@ -67,7 +89,7 @@
 |在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/<br>http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
 |关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573|
 
-## 7.北大课程资料整理
+## 8.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

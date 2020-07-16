@@ -17,6 +17,9 @@
 数据地址：https://wp.m.163.com/163/page/news/virus_report/index.html<br>
 代码地址：[基于网易疫情播报平台的数据采集](https://github.com/SalientView/covid_19-data-crawler)
 
+基于疫情数据可以做地理可视化：<br>
+<img src="https://imgkr.cn-bj.ufileos.com/930e0505-fd4c-41c1-9769-c72349df7978.png"  width="380" >
+
 
 ## 2.自动化数据分析脚本
 + 机器可以代替人工作吗？答案是不能100%，但或许80%是可以的。在数据分析时有些方法是通用的，适用于所有数据，不需要每次在分析时重新写。<br>
@@ -30,15 +33,19 @@
 我整理示了python所有的自带调色板，这样可以很方便地查看每种配色的名称和效果.<br>
 具体请下载pdf文件《[palette_all](https://github.com/SalientView/palette/blob/master/palette_all.pdf)》
 
-Worried about the color scheme for your data-visualization?
-I have sorted out all the palette in Python, so that you can clearly see the name and effect of each color. 
-See more details by downloading the PDF《[palette_all](https://github.com/SalientView/palette/blob/master/palette_all.pdf)》.
-
 <img src="https://static01.imgkr.com/temp/1ba8d4ff1ef2470fbcccff5ef2589660.png"  width="450" >
 
 
+## 4.地图可视化
 
-## 4.用python下载YouTube视频、B站视频
+基于Pyecharts的地图可视化，包括世界地图、中国地图等，参考代码请移步：[地图可视化](https://github.com/SalientView/MapShow)<br>
+
+<img src="https://imgkr.cn-bj.ufileos.com/d0eabd5c-154a-42dc-9bf9-e172aeb3a2a6.png"  width="800" >
+<img src="https://imgkr.cn-bj.ufileos.com/69010da2-5e19-405c-b0b0-eaff97af7aef.png"  width="650" >
+<img src="https://imgkr.cn-bj.ufileos.com/51d35116-82db-45e5-be06-88cd09f53945.png"  width="650" >
+
+
+## 5.用python下载YouTube视频、B站视频
 不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
 
 查看代码请移步[视频下载脚本](https://github.com/SalientView/YouTube_Download)。
@@ -47,11 +54,9 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 
 ![](https://imgkr.cn-bj.ufileos.com/1b196cd8-f753-4512-9e22-198d4df996cc.png)
 
-
-
 ![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
 
-## 5.SQL学习
+## 6.SQL学习
 
 本资源以MySQL为目标，因为MySQL方面的文章已经有前人整理的非常到位，直接拿来用即可，不需要自己在重新整理，学习资源如下：
 
@@ -61,7 +66,8 @@ See more details by downloading the PDF《[palette_all](https://github.com/Salie
 |测试题|https://zhuanlan.zhihu.com/p/53302593|
 |在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/<br>http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
 |关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573|
-## 6.北大课程资料整理
+
+## 7.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

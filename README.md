@@ -33,7 +33,7 @@
 我整理示了python所有的自带调色板，这样可以很方便地查看每种配色的名称和效果.<br>
 具体请下载pdf文件《[palette_all](https://github.com/SalientView/palette/blob/master/palette_all.pdf)》
 
-<img src="https://static01.imgkr.com/temp/1ba8d4ff1ef2470fbcccff5ef2589660.png"  width="450" >
+<img src="https://imgkr.cn-bj.ufileos.com/b66a52c5-90f8-4dd6-972c-a7295ff13b64.png"  width="450" >
 
 
 ## 4.地图可视化
@@ -45,7 +45,19 @@
 <img src="https://imgkr.cn-bj.ufileos.com/51d35116-82db-45e5-be06-88cd09f53945.png"  width="650" >
 
 
-## 5.用python下载YouTube视频、B站视频
+## 5.词云图看板
+
+以红楼梦为例的中文词云图展示，其他文本数据也可适用，代码地址：[词云图](https://github.com/SalientView/wordcloud)
+
+
+<img src="https://imgkr.cn-bj.ufileos.com/f026799f-03e6-495a-9daa-231d3e393499.png"  width="90%" >
+
+<img src="https://imgkr.cn-bj.ufileos.com/221f531c-35b5-4862-bc53-42c8174dd333.png"  width="90%" >
+
+
+
+
+## 6.用python下载YouTube视频、B站视频
 不需要下载任何软件工具就可以下载YouTube视频，还支持国内视频网站例如B站等。
 
 查看代码请移步[视频下载脚本](https://github.com/SalientView/YouTube_Download)。
@@ -57,7 +69,7 @@
 ![](https://imgkr.cn-bj.ufileos.com/1d35f8da-b759-4205-aa6a-cf4c9f87a6ad.png)
 
 
-## 6.Linux学习
+## 7.Linux学习
 
 Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工具或网站。
 
@@ -78,7 +90,7 @@ Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工
 |	在线查看内核代码及不同版本的差异|		http://lxr.free-electrons.com/|	
 
 
-## 7.SQL学习
+## 8.SQL学习
 
 本资源以MySQL为目标，因为MySQL方面的文章已经有前人整理的非常到位，直接拿来用即可，不需要自己在重新整理，学习资源如下：
 
@@ -89,7 +101,7 @@ Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工
 |在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/<br>http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
 |关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573|
 
-## 8.北大课程资料整理
+## 9.北大课程资料整理
 
 学习爱好者们搜集了许多大学的课程资料，具体请移步：[北大课程资料](https://github.com/SalientView/libpku)
 

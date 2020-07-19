@@ -92,11 +92,7 @@ Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工
 
 ## 8.SQL学习
 
-具体移步：[SQL学习资源](https://github.com/SalientView/SQL-Learning)
-
 本资源以MySQL为目标，因为MySQL方面的文章已经有前人整理的非常到位，直接拿来用即可，不需要自己在重新整理，学习资源如下：
-
-
 
 |	内容	|	地址	|
 |	----	|	----	|	
@@ -104,7 +100,7 @@ Linux懂的不多，才刚开始学习，以下是一些可以在线使用的工
 |测试题|https://zhuanlan.zhihu.com/p/53302593|
 |在线写SQL|https://sqlzoo.net/<br>https://sqlbolt.com/<br>http://xuesql.cn/<br>http://sqlfiddle.com/<br>https://leetcode-cn.com/|
 |关于SQL语句的执行顺序|https://zhuanlan.zhihu.com/p/48048479<br>https://www.cnblogs.com/yyjie/p/7788428.html<br>https://zhuanlan.zhihu.com/p/63299573|
-
+|Python连接MySQL数据库|https://github.com/SalientView/SQL-Learning|
 
 
 ## 9.北大课程资料整理

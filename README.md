@@ -14,7 +14,7 @@
   1. 当日数据
   2. 历史数据(时间序列)<br>
   
-数据地址：https://wp.m.163.com/163/page/news/virus_report/index.html<br>
+数据地址：[网易疫情播报平台](https://wp.m.163.com/163/page/news/virus_report/index.html)<br>
 代码地址：[基于网易疫情播报平台的数据采集](https://github.com/SalientView/covid_19-data-crawler)
 
 基于疫情数据可以做地理可视化：<br>
